@@ -13,7 +13,6 @@ Skills:   REACT / JS / HTML / CSS / SCSS / PUG / PHP / MYSQL / WORDPRESS /LARAVE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedThabet569&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
+ 
  
  
