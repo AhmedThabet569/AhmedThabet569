@@ -13,7 +13,6 @@ Skills:   REACT / JS / HTML / CSS / SCSS / PUG / PHP / MYSQL / WORDPRESS /LARAVE
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AhmedThabet56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-thabet-5171a2134//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedThabet569&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedThabet569&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
